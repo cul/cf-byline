@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom Field Byline
-Plugin URI: https://github.com/er-k/cf-byline
+Plugin URI: https://github.com/cul/cf-byline
 Description: Display author bylines from a post's custom field called: custom-byline
 Version: 1.0.0
 Author: er2576
